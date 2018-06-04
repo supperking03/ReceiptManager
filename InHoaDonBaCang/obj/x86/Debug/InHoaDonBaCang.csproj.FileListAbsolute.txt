@@ -1,0 +1,19 @@
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\bin\x86\Debug\InHoaDonBaCang.exe.config
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.Properties.Resources.resources
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.csproj.GenerateResource.Cache
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\bin\x86\Debug\InHoaDonBaCang.exe
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\bin\x86\Debug\InHoaDonBaCang.pdb
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.exe
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.pdb
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.csprojResolveAssemblyReference.cache
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.lbHoaDon.resources
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\bin\x86\Debug\InHoaDonBaCang.exe.config
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.exe
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.pdb
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\bin\x86\Debug\InHoaDonBaCang.exe
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\bin\x86\Debug\InHoaDonBaCang.pdb
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.FormGioiThieu.resources
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.lbHoaDon.resources
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.Properties.Resources.resources
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\x86\Debug\InHoaDonBaCang.csproj.GenerateResource.Cache

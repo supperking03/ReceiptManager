@@ -1,0 +1,11 @@
+c:\users\nam\documents\visual studio 2015\Projects\InHoaDonBaCang\InHoaDonBaCang\bin\Debug\InHoaDonBaCang.exe.config
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\bin\Debug\InHoaDonBaCang.exe.config
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\bin\Debug\InHoaDonBaCang.exe
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\bin\Debug\InHoaDonBaCang.pdb
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\Debug\InHoaDonBaCang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\Debug\InHoaDonBaCang.FormGioiThieu.resources
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\Debug\InHoaDonBaCang.lbHoaDon.resources
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\Debug\InHoaDonBaCang.Properties.Resources.resources
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\Debug\InHoaDonBaCang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\Debug\InHoaDonBaCang.exe
+C:\Users\Admin\Desktop\InHoaDonBaCang\InHoaDonBaCang\obj\Debug\InHoaDonBaCang.pdb
